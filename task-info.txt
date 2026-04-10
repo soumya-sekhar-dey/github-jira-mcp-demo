@@ -1,0 +1,24 @@
+Task Information
+================
+
+GitHub Issue : #1 - 1st issue to test claude console agent
+GitHub Repo  : https://github.com/soumya-sekhar-dey/github-jira-mcp-demo/issues/1
+Linear Ticket: LIN-6
+Linear URL   : https://linear.app/linear-mcp-demo/issue/LIN-6/1st-issue-to-test-claude-console-agent
+Branch       : fix/issue-1-db-connection-pooling
+Reported By  : soumya-sekhar-dey
+Priority     : High
+Created At   : 2026-04-09T01:35:16Z
+
+Problem Statement
+-----------------
+The web application is experiencing performance issues.
+The suspected root cause is the lack of database connection pooling.
+
+Next Steps
+----------
+1. Investigate current database connection handling in the web app.
+2. Identify the database driver/ORM in use.
+3. Implement or configure database connection pooling.
+4. Load test before and after to confirm performance improvement.
+5. Update documentation and close GitHub Issue #1 / LIN-6.
